@@ -1,0 +1,82 @@
+body {
+    color: rgb(0, 0, 0);
+    background-image: url(https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2023/11/29/kic2023-capa-1h7fx7oau3sc9.jpg);
+    margin: 0100x;
+    font-family: "Alegreya", serif;
+    text-align: center;
+}
+
+
+header {
+    background-image: url(hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxvCbf6gSyoBCqVluUTo-mH-HubFm3ZJ96uA&s);
+    border-bottom: solid 2px rgb(0, 0, 0);
+    padding: 20px;
+    font-size: 32px;
+    color: #ffffff;
+
+}
+
+/* código omitido */
+
+section {
+
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 15px
+}
+
+img{
+    height: 250px
+}
+
+/* código omitido */
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 1000px;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* código omitido */
+
+/* código omitido */
+
+.chamada {
+   
+    padding-bottom: 40px;
+    padding-top: 50px;
+    display: center;
+    justify-content:flex-end;
+}
+
+/* código omitido */
+
+/* código escondido */
+/* código escondido */
+
+.categoria-videos img:hover {
+    opacity : 1.0;
+}
+
+.categoria h2 {
+    color: rgb(42, 122, 228);
+}
